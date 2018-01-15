@@ -39,7 +39,6 @@ console.log(numberD);
 
 //----------------------------lovel 3-------------------
 console.log("----------------------------lovel 3-------------------");
-
 var arrDataType = [2,32,-3,0,12,24]
 console.log(`----------store numbers--------------`);
 console.log(arrDataType);
@@ -57,5 +56,3 @@ console.log(`----------loop array--------------`);
 for(i=0;i<arrDataType.length;i++){
   console.log(`array[${i}] = ${arrDataType[i]}`);
 }
-
-// console.log(arrDataType.pop());
